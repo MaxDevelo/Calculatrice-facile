@@ -1,3 +1,3 @@
-# Calculatrice-facile
+# Easy calculator
 
-Une calculatrice créée sur Javascript.
+This is a calculator created in Javascript.
